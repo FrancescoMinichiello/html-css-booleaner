@@ -54,3 +54,23 @@ figure {
 ul {
     margin-left: -25px;
 }
+
+table {
+    border-spacing: 0;
+}
+
+#cella-1 {
+    width: 25%;
+}
+
+#cella-2 {
+    width: 25%;
+}
+
+.colore-intestazione-tabella {
+    background-color: #24b5da;
+}
+
+.colore-corpo-tabella {
+    background-color: aqua;
+}
