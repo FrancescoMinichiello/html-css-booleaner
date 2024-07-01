@@ -1,0 +1,17 @@
+header {
+    margin: 0 auto;
+    width: 1280px;
+    height: 100px;
+    background-color: lightskyblue;
+}
+
+.intestazione {
+    height: 100%;
+    height: 100%;
+    background-image: url('../img/pattern.png');
+    background-size: 300px;
+}
+
+.logo-intestazione {
+    height: 50px;
+}
