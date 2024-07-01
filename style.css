@@ -23,7 +23,7 @@ h1 {
 
 .author {
     font-size: 20px;
-    color: lightgray;
+    color: rgb(138, 138, 138);
     margin-top: 0;
 }
 
@@ -33,7 +33,7 @@ a {
 
 .data-articolo {
     font-size: 12px;
-    color: lightgray;
+    color: rgb(138, 138, 138);
     margin-top: 0;
 }
 
@@ -74,3 +74,20 @@ table {
 .colore-corpo-tabella {
     background-color: aqua;
 }
+
+h3 {
+    color: rgb(138, 138, 138);
+}
+
+.related-post {
+    position: relative;
+    margin: auto;
+}
+
+.testo-sovrapposto {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
